@@ -48,4 +48,4 @@ DELETE | `/users/:id` | Delete a user by its id
 		node index.js
 	
 ## License
-This project uses [the MIT License](https://github.com/nslcoder/basic-crud-api/blob/main/LICENSE.md).	
+This project uses [the MIT License](https://github.com/nslcoder/rest-api-prisma/blob/main/LICENSE.md).	
